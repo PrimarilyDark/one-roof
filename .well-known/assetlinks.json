@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "io.github.primarilydark.twa",
+    "package_name": "mobile.igloolux.com",
     "sha256_cert_fingerprints": ["3A:43:A6:29:6E:EE:36:AD:3A:AD:8A:20:F8:74:3D:1B:23:79:E6:0A:28:A0:6B:1E:64:23:78:7E:14:2F:2F:0C"]
   }
 }]
